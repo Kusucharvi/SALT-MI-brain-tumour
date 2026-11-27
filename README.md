@@ -1,6 +1,6 @@
-# SALT-MI: Evaluating Saliency Maps for Deep Learning-Based Brain Tumour Classification on MRI
+# SALT-MI: A Systematic Evaluation Framework for Saliency-Based Explainability in Brain Tumour MRI Classification
 
-Code for the paper *"Evaluating Saliency Maps for Deep Learning-Based Brain Tumour Classification on MRI: The SALT-MI Protocol"* .
+Code for the paper *"SALT-MI: A Systematic Evaluation Framework for Saliency-Based Explainability in Brain Tumour MRI Classification"* .
 
 Every number, table and figure in the paper is produced by the scripts below. All datasets are public and are downloaded automatically.
 
